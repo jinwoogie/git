@@ -7,6 +7,5 @@ public class cherr {
         System.out.println("true = " + true);
         System.out.println("true = " + true);
         System.out.println("true = " + true);System.out.println("true = " + true);
-
     }
 }
