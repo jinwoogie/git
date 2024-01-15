@@ -5,7 +5,8 @@ public class asd {
         String asdf = "??";
 
 
-
-        int a = 1;
+        while (true) {
+            return;
+        }
     }
 }
