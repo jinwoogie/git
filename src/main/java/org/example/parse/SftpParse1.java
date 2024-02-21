@@ -2,7 +2,7 @@ package org.example.parse;
 
 import java.io.*;
 
-public class SftpParse {
+public class SftpParse1 {
     public static void main(String[] args) {
         try {
             File file = new File("C:\\Users\\KOAST\\Desktop\\log\\sftp.log.20240116\\sftp.log-20240107");
