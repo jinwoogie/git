@@ -14,5 +14,7 @@ public class hungry {
         System.out.println("args = " + Arrays.toString(args));
         System.out.println("args = " + Arrays.toString(args));
         System.out.println("args = " + Arrays.toString(args));
+        System.out.println("args = " + Arrays.toString(args));
+        System.out.println("args = " + Arrays.toString(args));
     }
 }
